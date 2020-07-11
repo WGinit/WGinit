@@ -1,5 +1,5 @@
 
-### 🔭 I’m working
+### 🔭 Write less，Work more
 
 ###  📫 How to reach me: 
 > e-mail: wginit@yeah.net
