@@ -1,7 +1,7 @@
 
 ### 🔭 I’m working
 
-###  📫 How to reach me: ...
+###  📫 How to reach me: 
 > e-mail: wginit@yeah.net
 
 
