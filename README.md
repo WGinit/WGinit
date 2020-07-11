@@ -1,7 +1,9 @@
+
+### 🔭 I’m currently working
+
 ###  📫 How to reach me: ...
 > e-mail: wginit@yeah.net
 
-### 🔭 I’m currently working
 
 <!--
 **WGinit/WGinit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
