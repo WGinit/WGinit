@@ -3,9 +3,9 @@
 > e-mail: wginit@yeah.net
 
 ## 汇总
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wginit&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats&locale=cn)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wginit&hide_progress=true&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://github-readme-stats.vercel.app/api?username=wginit&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=wginit&show_icons=true&locale=cn)
 
 
 
