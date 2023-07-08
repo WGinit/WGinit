@@ -4,6 +4,7 @@
 >
 
 ## 工具
++ 白山羊ChatGPT: [https://chatgpt.lihua1108.com](https://chatgpt.lihua1108.com)
 + 免费图片上传工具：[https://lihua1108.com/img2ur](https://lihua1108.com/img2ur/)
 + 小程序自动发版工具：[https://github.com/WGinit/wxapp-publish](https://github.com/WGinit/wxapp-publish)
 + Chrome临时历史浏览记录插件：[https://github.com/WGinit/chrome-history-plugin](https://github.com/WGinit/chrome-history-plugin)
