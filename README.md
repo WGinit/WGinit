@@ -9,16 +9,20 @@
 + 白山羊笔记：[https://note.lihua1108.com](https://note.lihua1108.com)
 + 小程序自动发版工具：[https://github.com/WGinit/wxapp-publish](https://github.com/WGinit/wxapp-publish)
 
-<!--
+
 ## 小程序
-<div align=left>
-<img src="https://i.imgur.com/DGijaX5.jpg"  width="200" /> &nbsp; &nbsp; &nbsp; 
-<img src="https://i.imgur.com/LMk1JAa.jpg"  width="200" /> &nbsp; &nbsp; &nbsp; 
-<img src="https://i.imgur.com/3mSVlko.jpg"  width="200" /> 
-</div>
+<details>
+  <div align=left>
+    <img src="http://cdn.lihua1108.com/mini-app/ai/mini-qrcode.jpg"  width="200" /> &nbsp; &nbsp; &nbsp; 
+    <img src="https://i.imgur.com/DGijaX5.jpg"  width="200" /> &nbsp; &nbsp; &nbsp; 
+    <img src="https://i.imgur.com/LMk1JAa.jpg"  width="200" /> &nbsp; &nbsp; &nbsp; 
+    <img src="https://i.imgur.com/3mSVlko.jpg"  width="200" /> 
+  </div>
+</details>
 
+
+<!--
 ## 汇总
-
 ![](https://github-readme-stats.vercel.app/api?username=wginit&show_icons=true&locale=cn)
 -->
 
