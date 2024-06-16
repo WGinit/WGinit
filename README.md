@@ -13,9 +13,10 @@
 ## 小程序
 <details>
   <div align=left>
-    <img src="http://cdn.lihua1108.com/mini-app/ai/mini-qrcode.jpg"  width="160" /> &nbsp; &nbsp; &nbsp; 
-    <img src="https://i.imgur.com/DGijaX5.jpg"  width="160" /> &nbsp; &nbsp; &nbsp; 
-    <img src="https://i.imgur.com/LMk1JAa.jpg"  width="160" /> &nbsp; &nbsp; &nbsp; 
+    <img src="http://cdn.lihua1108.com/mini-app/ai/mini-qrcode.jpg"  width="160" /> &nbsp; &nbsp; 
+    <img src="http://cdn.lihua1108.com/mini-app/qrcode/mini-writting.jpg" width="160" /> &nbsp; &nbsp; 
+    <img src="https://i.imgur.com/DGijaX5.jpg"  width="160" /> &nbsp; &nbsp;
+    <img src="https://i.imgur.com/LMk1JAa.jpg"  width="160" /> &nbsp; &nbsp; 
     <img src="https://i.imgur.com/3mSVlko.jpg"  width="160" /> 
   </div>
 </details>
